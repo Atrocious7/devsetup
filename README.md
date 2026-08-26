@@ -55,7 +55,7 @@ npm link
 Usage
 Run:
 devsetup check
-
+```
 
 Future Features
 - Add full support for Windows, macOS, and Linux.
