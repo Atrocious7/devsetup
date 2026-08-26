@@ -1,0 +1,32 @@
+{
+  "name": "devsetup-cli",
+  "version": "1.0.0",
+  "description": "A cross-platform CLI tool for checking your development environment",
+  "type": "module",
+  "bin": {
+    "devsetup": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node src/index.js check"
+  },
+  "keywords": [
+    "cli",
+    "developer-tools",
+    "development-environment",
+    "system-check",
+    "nodejs",
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "author": "Tarun Mishra",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^14.0.0"
+  }
+}
