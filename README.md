@@ -42,7 +42,7 @@ A lightweight cross-platform CLI tool that checks whether common developer tools
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/devsetup.git
+git clone https://github.com/Atrocious7/devsetup.git
 cd devsetup
 
 
