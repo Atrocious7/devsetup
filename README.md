@@ -1,6 +1,6 @@
 # DevSetup
 
-A lightweight cross-platform CLI tool that checks whether common developer tools are installed and reports their versions.
+A lightweight CLI tool for checking common developer tools and their installed versions. Currently tested on Windows, with macOS and Linux support planned for upcoming updates.
 
 ## Features
 
